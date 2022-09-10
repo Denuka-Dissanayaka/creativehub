@@ -1,0 +1,17 @@
+.hero-container {
+    flex-direction: column-reverse;
+    
+}
+
+.hero-image {
+    width: 90%;
+}
+
+.hero-text {
+    width: 90%;
+    margin-top: 2rem;
+}
+
+.hero-icon-section {
+    margin-top: 10rem;
+}
